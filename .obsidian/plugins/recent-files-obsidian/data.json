@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "重构-改善既有代码的设计",
+      "path": "docs/自学内容/代码质量/重构-改善既有代码的设计.md"
+    },
+    {
       "basename": "C++基础",
       "path": "docs/编程语言/c++/C++基础.md"
     },
@@ -67,10 +71,6 @@
     {
       "basename": "unity资源管理",
       "path": "docs/自学内容/游戏开发&图形学/游戏开发/游戏客户端/unity/unity资源管理.md"
-    },
-    {
-      "basename": "重构-改善既有代码的设计",
-      "path": "docs/自学内容/代码质量/重构-改善既有代码的设计.md"
     },
     {
       "basename": "项目管理",
