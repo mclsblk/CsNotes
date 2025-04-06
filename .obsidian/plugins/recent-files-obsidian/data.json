@@ -1,12 +1,44 @@
 {
   "recentFiles": [
     {
-      "basename": "重构-改善既有代码的设计",
-      "path": "docs/自学内容/代码质量/重构-改善既有代码的设计.md"
+      "basename": "笔记",
+      "path": "docs/学校课程/归档课程/软件工程/笔记.md"
+    },
+    {
+      "basename": "重点",
+      "path": "docs/学校课程/归档课程/软件工程/重点.md"
+    },
+    {
+      "basename": "P5410 【模板】扩展 KMP_exKMP（Z 函数） - 洛谷 _ 计算机科学教育新生态",
+      "path": "linkdata/P5410 【模板】扩展 KMP_exKMP（Z 函数） - 洛谷 _ 计算机科学教育新生态.md"
+    },
+    {
+      "basename": "Drawing 2024-11-27 14.51.35.excalidraw",
+      "path": "Excalidraw/Drawing 2024-11-27 14.51.35.excalidraw.md"
+    },
+    {
+      "basename": "八股",
+      "path": "docs/编程语言/java/八股.md"
+    },
+    {
+      "basename": "词法分析",
+      "path": "docs/学校课程/归档课程/编译原理/笔记/词法分析.md"
     },
     {
       "basename": "C++基础",
       "path": "docs/编程语言/c++/C++基础.md"
+    },
+    {
+      "basename": "几何",
+      "path": "docs/自学内容/游戏开发&图形学/计算机图形学/图形学基础/几何.md"
+    },
+    {
+      "basename": "games104游戏引擎",
+      "path": "docs/自学内容/游戏开发&图形学/游戏开发/游戏引擎/games104游戏引擎.md"
+    },
+    {
+      "basename": "重构-改善既有代码的设计",
+      "path": "docs/自学内容/代码质量/重构-改善既有代码的设计.md"
     },
     {
       "basename": "games001数学基础",
@@ -43,14 +75,6 @@
     {
       "basename": "动画",
       "path": "docs/自学内容/游戏开发&图形学/计算机图形学/图形学基础/动画.md"
-    },
-    {
-      "basename": "几何",
-      "path": "docs/自学内容/游戏开发&图形学/计算机图形学/图形学基础/几何.md"
-    },
-    {
-      "basename": "games104游戏引擎",
-      "path": "docs/自学内容/游戏开发&图形学/游戏开发/游戏引擎/games104游戏引擎.md"
     },
     {
       "basename": "unity基础",
@@ -175,30 +199,6 @@
     {
       "basename": "os-model",
       "path": "docs/学校课程/归档课程/操作系统/代码/os-model/os-model.py"
-    },
-    {
-      "basename": "index",
-      "path": "docs/index.md"
-    },
-    {
-      "basename": "index",
-      "path": "docs/blog/index.md"
-    },
-    {
-      "basename": "ABC321",
-      "path": "docs/blog/posts/算法竞赛/ABC321.md"
-    },
-    {
-      "basename": "ARC165",
-      "path": "docs/blog/posts/算法竞赛/ARC165.md"
-    },
-    {
-      "basename": "CodeforcesRound899(Div.2)",
-      "path": "docs/blog/posts/算法竞赛/CodeforcesRound899(Div.2).md"
-    },
-    {
-      "basename": "CodeforcesRound900(Div.3)",
-      "path": "docs/blog/posts/算法竞赛/CodeforcesRound900(Div.3).md"
     }
   ],
   "omittedPaths": [],
